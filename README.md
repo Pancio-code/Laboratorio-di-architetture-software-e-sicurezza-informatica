@@ -4,3 +4,5 @@ This repository contains slides for the course of Laboratorio di architetture so
 ---
 
 ### Project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=CondominioOrganizer)](https://github.com/Pancio-code/CondominioOrganizer)
